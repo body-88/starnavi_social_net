@@ -14,3 +14,12 @@ mades a last request to the service.\
 
 
 JWT token authentication
+
+
+<b>Steps to install:<b>\
+● `clone repository`\
+● create `.env` file copying everything from `.env.example`\
+● in terminal `docker-compose up` to run docker container and project \
+● in another terminal window `docker compose exec web python manage.py migrate` to migrate \
+● visit `http://127.0.0.1:8000/api/schema/swagger-ui/` to learn project's docs and make simple actions
+ 

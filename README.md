@@ -1,0 +1,1 @@
+# starnavi_social_net
